@@ -1,4 +1,4 @@
-namespace _18_04;
+namespace aula18_04;
 class Banco
 {   
     public int Numero {get; set;}
@@ -13,7 +13,7 @@ class Banco
     }
     public void Sacar(double valor){
         if (this.Saldo + this.Limite <= valor){
-            Console.WriteLine("Você está sacando um valor a mais do que possui!");
+            Console.WriteLine("Você não tem saldo suficiente");
         }else{
              this.Saldo -= valor;
         }
@@ -26,6 +26,7 @@ class Banco
     public double valor {get; set;}
 
     public string emprestimo(int parcelas, double dinheiro){
+
         this.parcela = parcelas;
         this.valor = dinheiro;
         
@@ -34,7 +35,7 @@ class Banco
         double soma = multi + divi;
         double total = soma * parcelas;
 
-        string resultado = "O valor da parcela sem juros é de: "+ divi +". O valor da parcela com juros: "+ multi + ". O juros com prestações é de: "+ soma + "O valor total a pagar é de: "+total;
+        string resultado = "O valor da parcela sem juros é de: "+ divi +". O valor da parcela com juros é de: "+ multi + ". O valor dos juros é de: "+ soma + "O valor total a pagar é de: "+total;
         return resultado;
         
      

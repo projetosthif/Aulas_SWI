@@ -1,9 +1,8 @@
-﻿namespace _18_04;
+﻿namespace aula18_04;
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Projeto Banco Ariany Andrade");
         Banco b = new Banco();
 
         b.Depositar(1000);
