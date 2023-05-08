@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\bin\Debug\net7.0\ExercicioAvaliativo.exe
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\bin\Debug\net7.0\ExercicioAvaliativo.deps.json
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\bin\Debug\net7.0\ExercicioAvaliativo.runtimeconfig.json
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\bin\Debug\net7.0\ExercicioAvaliativo.dll
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\bin\Debug\net7.0\ExercicioAvaliativo.pdb
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.dll
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\refint\ExercicioAvaliativo.dll
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.pdb
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ExercicioAvaliativo.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\ExercicioAvaliativo\obj\Debug\net7.0\ref\ExercicioAvaliativo.dll
